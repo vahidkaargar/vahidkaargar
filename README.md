@@ -6,8 +6,8 @@
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,vuejs,nodejs,git)
 
 ## 🔭 Currently working on
-- [Mobogift](https://mobogift.com)
-- [MeliPayamak](https://melipayamak.com)
+- [Mobogift - موبوگیفت](https://mobogift.com)
+- [MeliPayamak - ملی پیامک](https://melipayamak.com)
 
 ## 📫 How to reach me
 - Email: vahidkaargar@gmail.com
